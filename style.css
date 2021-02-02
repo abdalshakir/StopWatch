@@ -1,0 +1,41 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url(Images/to\ be\ added\ as.jpg);
+    
+}
+
+.main {
+    width: 500px;
+    margin: auto;
+    margin-top: 300px;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+h1 {
+    color: #ffffff;
+    width: fit-content;
+    text-align: center;
+    font-size: 5em;
+}
+
+#min, #sec, #milisec {
+    border: 1px solid white;
+    width: 150px;
+    background-color: rgb(81, 2, 160);
+}
+
+.btn {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.far {
+    width: fit-content;
+    font-size: 3em;
+}
